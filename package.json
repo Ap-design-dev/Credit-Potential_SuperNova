@@ -1,0 +1,12 @@
+{
+  "name": "credit-potential-supernova",
+  "private": true,
+  "description": "Credit Potential SuperNova native component and self-contained preview",
+  "scripts": {
+    "assets": "node scripts/export-icons.cjs",
+    "preview": "node scripts/build-credit-preview.cjs"
+  },
+  "devDependencies": {
+    "sharp": "0.35.5"
+  }
+}

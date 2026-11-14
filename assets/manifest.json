@@ -1,0 +1,57 @@
+[
+  {
+    "path": "assets/fonts/SBSansDisplay-SemiBold.ttf",
+    "bytes": 221412,
+    "sha256": "e8e3ee8aa0570a3c2d04739ee9983fc07041db46ee3444a45f01fc2abad04804"
+  },
+  {
+    "path": "assets/fonts/SBSansText-Regular.ttf",
+    "bytes": 95260,
+    "sha256": "649cb712d876c31860f6f0bf7c2b39e69763530adcc84ac44d1047e34cbd2574"
+  },
+  {
+    "path": "assets/icons/sc_srv_caretright_stroke_16.svg",
+    "bytes": 517,
+    "sha256": "16938702f2532df35d4ae80b274a7779ec6bad546d373d8d7f54c158bbc83256"
+  },
+  {
+    "path": "assets/icons/sc_srv_cross_stroke_16.svg",
+    "bytes": 704,
+    "sha256": "b58f4c42a729fcc4ef152b052b08da06166c1d4eae1119e3c6fce0ce155ca437"
+  },
+  {
+    "path": "assets/skeleton/sn_skeleton_amount.svg",
+    "bytes": 420,
+    "sha256": "abb00654731f02f539459e78a67a6a9f673ab71768cecd9a518c6b7db6583e51"
+  },
+  {
+    "path": "assets/skeleton/sn_skeleton_description.svg",
+    "bytes": 413,
+    "sha256": "a59e6adb66f37de307272ffee4662a6c482f98a91a23545281ab6b6506e8b38a"
+  },
+  {
+    "path": "assets/skeleton/sn_skeleton_label.svg",
+    "bytes": 418,
+    "sha256": "ca225a3f1274cf3598a424f5c3741e23b40c7c6c250e3e7fe7a6c227029b55ec"
+  },
+  {
+    "path": "assets/skeleton/sn_skeleton_suggestion.svg",
+    "bytes": 448,
+    "sha256": "b6249b5f6ba9eb3cdd98606a698c7c9cb4d480f2efbb2739758c5f0a8b4749a1"
+  },
+  {
+    "path": "assets/fonts/SBSansText-Semibold.ttf",
+    "bytes": 100348,
+    "sha256": "561dd191f26ef1177f6cea8155d87dd955ba7656c540a33b99366b0c2ed90bfe"
+  },
+  {
+    "path": "assets/skeleton/sn_credit_text.svg",
+    "bytes": 418,
+    "sha256": "ca225a3f1274cf3598a424f5c3741e23b40c7c6c250e3e7fe7a6c227029b55ec"
+  },
+  {
+    "path": "assets/skeleton/sn_credit_button.svg",
+    "bytes": 410,
+    "sha256": "40b0b34fb5ee3ebd60d6b2304a4577a9cb9da673dc2a2308afdcd4f9eba1d41e"
+  }
+]
